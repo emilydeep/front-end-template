@@ -1,0 +1,25 @@
+h1 {
+    background-color: lightblue;
+    font-family: helvetica;
+    padding: 20px;
+}
+
+h2 {
+    font-family: helvetica;
+    border-style: solid;
+    padding: 10px;
+}
+
+.message {
+    background-color: lightpink;
+    color: white;
+    font-family: helvetica;
+    padding: 10px;
+}
+
+.greeting {
+    background-color: lightgray;
+    font-family: helvetica;
+    padding: 15px;
+}
+
